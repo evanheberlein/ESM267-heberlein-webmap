@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201026</CreaDate><CreaTime>17280500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Raster to Polygon (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20201026" Time="172805">RasterToPolygon C:\Users\ese\Scratch\Nibble_raste1 C:\Users\ese\Scratch\hillslope_polygons_step2.shp SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>
